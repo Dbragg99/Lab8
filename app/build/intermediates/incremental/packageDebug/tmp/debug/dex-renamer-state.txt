@@ -1,0 +1,4 @@
+#Mon Mar 22 15:43:07 MDT 2021
+base.0=/Users/dbragg/Documents/301/Lab8/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
